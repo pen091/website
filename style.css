@@ -1,5 +1,6 @@
 
-img {
+div {
 	width: 200px;
 	height: 100px;
+	float: left;
 }
