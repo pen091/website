@@ -1,10 +1,5 @@
-body {
-  background-color: #666; /* Lighter gray background */
-}
 
-ul{
-	display: flex;
-	justify-content: space-evenly;
-	list-style: none;
-	width : 60%;
+img {
+	width: 200px;
+	height: 100px;
 }
